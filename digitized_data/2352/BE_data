@@ -1,0 +1,11 @@
+MF: C24H24Mo2N4O4
+CF: Mo2(OC.CHCHCHC(CH3)N.)4
+IUPAC Name: tetrakis(μ-2-hydroxy-6-methylpyridine) dimolybdenum
+Isomeric SMILES: CC1=NC([O])=CC=C1.CC1=NC([O])=CC=C1.CC1=NC([O])=CC=C1.CC1=NC([O])=CC=C1.[Mo].[Mo]
+InChI: InChI=1S/4C6H6NO.2Mo/c4*1-5-3-2-4-6(8)7-5;;/h4*2-4H,1H3;;
+Core level: O 1s
+BE: 536.5
+Reference ID: 147
+Reference DOI: 10.1039/C39810001027
+Reference text: 
+

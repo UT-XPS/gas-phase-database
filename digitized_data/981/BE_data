@@ -1,0 +1,11 @@
+MF: C15CrF18H3O6
+CF: Cr(CF3C*OCHC*OCF3)3
+IUPAC Name: Chromium(3+);(Z)-1,1,1,5,5,5-hexafluoro-4-oxopent-2-en-2-olate
+Isomeric SMILES: C(=C(\[O-])/C(F)(F)F)\C(=O)C(F)(F)F.C(=C(\[O-])/C(F)(F)F)\C(=O)C(F)(F)F.C(=C(\[O-])/C(F)(F)F)\C(=O)C(F)(F)F.[Cr+3]
+InChI: InChI=1S/3C5H2F6O2.Cr/c3*6-4(7,8)2(12)1-3(13)5(9,10)11;/h3*1,12H;/q;;;+3/p-3/b3*2-1-;
+Core level: C 1s
+BE: 293.95 (corr)
+Reference ID: 1
+Reference DOI: 10.1080/00958977608073003
+Reference text: 
+

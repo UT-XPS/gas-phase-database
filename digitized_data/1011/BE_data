@@ -1,0 +1,11 @@
+MF: C8CdH22Si2
+CF: Cd(CH2Si(CH3)3)2
+IUPAC Name: Cadmium Bis(trimethylsilyl)methyl)
+Isomeric SMILES: [CH2][Si](C)(C)C.[CH2][Si](C)(C)C.[Cd]
+InChI: InChI=1S/2C4H11Si.Cd/c2*1-5(2,3)4;/h2*1H2,2-4H3;
+Core level: Cd 4d5/2
+BE: 16.63
+Reference ID: 88
+Reference DOI: 10.1021/ic50205a014
+Reference text: 
+Comment: Error in MF in Jolly et al., Atomic Data and Nuclear Data Tables 31, 433 (1984)

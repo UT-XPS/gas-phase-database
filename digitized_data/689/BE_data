@@ -1,0 +1,12 @@
+MF: C6F5I
+CF: C6F5I (C*I)
+IUPAC Name: 1,2,3,4,5-pentafluoro-6-iodobenzene
+Isomeric SMILES: C1(=C(C(=C(C(=C1F)F)I)F)F)F
+InChI: InChI=1S/C6F5I/c7-1-2(8)4(10)6(12)5(11)3(1)9
+Core level: C 1s
+BE: 292.01
+Reference ID: 115
+Reference DOI: 10.1139/v77-177
+Reference text: 
+Comment: original reference is wrong, should be Trudell and Price, Canadian Journal of Chemistry 55, 1279 (1977).
+

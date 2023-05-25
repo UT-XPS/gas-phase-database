@@ -1,0 +1,11 @@
+MF: C8H5MnO2S
+CF: (C5H5)Mn(CO)2CS
+IUPAC Name: Carbon Monoxide;cyclopenta-1,3-diene;manganese;methanidylidynesulfanium
+Isomeric SMILES: [C-]#[O+].[C-]#[O+].[C-]#[S+].[CH-]1C=CC=C1.[Mn]
+InChI: InChI=1S/C5H5.2CO.CS.Mn/c1-2-4-5-3-1;3*1-2;/h1-5H;;;;/q-1;;;;
+Core level: S 2p3/2
+BE: 168.57
+Reference ID: 144
+Reference DOI: 10.1016/0368-2048(81)80051-5
+Reference text: 
+

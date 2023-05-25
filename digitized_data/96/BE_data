@@ -1,0 +1,11 @@
+MF: Br2C2GeH6
+CF: (CH3)2GeBr2
+IUPAC Name: Dibromo(dimethyl)germane
+Isomeric SMILES: C[Ge](C)(Br)Br
+InChI: InChI=1S/C2H6Br2Ge/c1-5(2,3)4/h1-2H3 
+Core level: Br 3d5/2
+BE: 75.60
+Reference ID: 9
+Reference DOI: 10.1139/v76-558
+Reference text: 
+Comment: Wrong MF in Jolly paper

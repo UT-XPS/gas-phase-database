@@ -1,0 +1,11 @@
+MF: C7FeH9PO4
+CF: Fe(CO)4P(CH3)3
+IUPAC Name: Tetracarbonyl iron trimethylphosphine
+Isomeric SMILES: CP(C)C.C(=O)=[Fe](=C=O)(=C=O)=C=O
+InChI: InChI=1S/C3H9P.4CO.Fe/c1-4(2)3;4*1-2;/h1-3H3;;;;;
+Core level: Fe 2p3/2
+BE: 714.74
+Reference ID: 186
+Reference DOI: 10.1021/om00082a008
+Reference text: 
+Comment: Wrong MF in Jolly et, al.

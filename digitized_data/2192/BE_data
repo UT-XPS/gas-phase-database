@@ -1,0 +1,11 @@
+MF: C6FeH4O6
+CF: C2H4Fe(CO)4
+IUPAC Name: eta-2-ethene-iron-tetracarbonyl
+Isomeric SMILES: C=C.C(=O)=[Fe](=C=O)(=C=O)=C=O
+InChI: InChI=1S/C2H4.4CO.Fe/c5*1-2;/h1-2H2;;;;;
+Core level: O 1s
+BE: 539.81
+Reference ID: 172
+Reference DOI: 10.1021/ic00157a010
+Reference text: 
+Comment: Incorrect MF in Jolly et, al.

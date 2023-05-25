@@ -1,0 +1,12 @@
+MF: C6ClF5
+CF: C6F5Cl (C*F)
+IUPAC Name: 1-chloro-2,3,4,5,6-pentafluorobenzene
+Isomeric SMILES: C1(=C(C(=C(C(=C1F)F)Cl)F)F)F
+InChI: InChI=1S/C6ClF5/c7-1-2(8)4(10)6(12)5(11)3(1)9
+Core level: C 1s
+BE: 292.05
+Reference ID: 115
+Reference DOI: 10.1139/v77-177
+Reference text: 
+Comment: original reference is wrong, should be Trudell and Price, Canadian Journal of Chemistry 55, 1279 (1977).
+

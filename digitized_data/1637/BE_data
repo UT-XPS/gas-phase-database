@@ -1,0 +1,13 @@
+MF: C11H18MoNO5P
+CF: Mo(CO)5P(N(CH3)2)3
+IUPAC Name: pentacarbonyl molybdenum tris-dimethylaminophosphane
+Isomeric SMILES: CN(C)P(N(C)C)N(C)C.C(=O)=[Mo](=C=O)(=C=O)(=C=O)=C=O
+InChI: InChI=1S/C6H18N3P.5CO.Mo/c1-7(2)10(8(3)4)9(5)6;5*1-2;/h1-6H3;;;;;;
+Core level: Mo 3d5/2
+BE: 233.76
+Reference ID: 155
+Reference DOI: 10.1021/ic50210a001
+Reference text: 
+Comment: Wrong MF in jolly et, al.
+
+
